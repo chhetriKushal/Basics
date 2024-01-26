@@ -1,0 +1,4 @@
+﻿What is your favorite programming language? Why?
+Java, I find the object orientation method of programming very intuitive
+- Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+I have the most experience with Java. The least experience, that I know will be Python.
